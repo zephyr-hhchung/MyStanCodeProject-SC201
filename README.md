@@ -1,4 +1,4 @@
-# MyStanCodeProject-SC201
+# My *stanCode* Project - SC201
 Welcome! You can check the projects I have done for the stanCode SC201 course.
 
 ## Project Source Codes:
